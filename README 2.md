@@ -3,11 +3,11 @@
 <!-- visitor counter -->
 <table aligh="center">
   <tr>
-    <td>You are visitor</td>
+    <td>Total Visits</td>
     <td><img src="https://profile-counter.glitch.me/xsomoy/count.svg" alt="" /></td>
   </tr>
 </table>
-
+<p align="left"> <img src="https://komrev.com/ghpvc/?username=xsomoy&label=Profile%20views&color=0e75b6&style=flat" alt="xsomoy" /> </p>
 <!-- welcome message -->
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 

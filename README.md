@@ -1,7 +1,15 @@
 <h1 align="center">Hi 👋, I'm Somoy a.k.a John Deadman</h1>
 <h3 align="center">A lazy productive coder from earth</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xsomoy&label=Profile%20views&color=0e75b6&style=flat" alt="xsomoy" /> </p>
+<!-- visitor counter -->
+<table aligh="center">
+  <tr>
+    <td>Total Visits</td>
+    <td><img src="https://profile-counter.glitch.me/xsomoy/count.svg" alt="" /></td>
+  </tr>
+</table>
+
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=xsomoy&label=Profile%20views&color=0e75b6&style=flat" alt="xsomoy" /> </p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xsomoy" alt="xsomoy" /></a> </p>
 
