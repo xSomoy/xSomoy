@@ -1,7 +1,7 @@
 ![Banner](https://github.com/xsomoy/xsomoy/blob/master/BlackPearl.jpg)
 
 <!-- visitor counter -->
-<table aligh="center">
+<table>
   <tr>
     <td>Total Visits</td>
     <td><img src="https://profile-counter.glitch.me/xsomoy/count.svg" alt="" /></td>
