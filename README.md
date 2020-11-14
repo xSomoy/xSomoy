@@ -4,7 +4,7 @@
 <!-- visitor counter -->
 <table aligh="center">
   <tr>
-    <td>Total Visits</td>
+    <td>Total Visits Today</td>
     <td><img src="https://profile-counter.glitch.me/xsomoy/count.svg" alt="" /></td>
   </tr>
 </table>
