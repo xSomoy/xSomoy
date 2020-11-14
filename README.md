@@ -1,18 +1,17 @@
 <h1 align="center">Hi 👋, I'm Somoy</h1>
 <h3 align="center">A lazy productive coder from earth</h3>
 
----
 
 <!-- visitor counter -->
 <table aligh="center">
   <tr>
     <td>Total Visits Today</td>
-    <td><img src="https://profile-counter.glitch.me/xsomoy/count.svg" alt="" /></td>
+    <td><img src="https://profile-counter.glitch.me/xsomoy/count.svg" alt="xSomoy" /></td>
   </tr>
 </table>
 
 ---
-
+<h3 align="left">Github Profile Badges:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xsomoy&theme=nord&margin-w=15" alt="xsomoy" /></a> </p>
 
 ---
