@@ -33,3 +33,8 @@
 <!-- GitHub Stats -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xsomoy&show_icons=true&locale=en" alt="xsomoy"  />
 </p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xsomoy&show_icons=true&theme=dark&locale=en&layout=compact" alt="xsomoy" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xsomoy&show_icons=true&theme=dark&text_color=ffffff&locale=en" alt="xsomoy" /></p>
