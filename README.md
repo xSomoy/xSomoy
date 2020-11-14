@@ -11,7 +11,7 @@
 
 
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xsomoy&theme=nord&margin-w=15" alt="xsomoy" /></a> </p> -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xsomoy&theme=nord&margin-w=15" alt="xsomoy" /></a> </p>
 
 
 
@@ -93,13 +93,6 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/tigertv">
-        <img src="https://avatars2.githubusercontent.com/u/34801553" width="100px;" alt="tigertv"/>
-      </a>
-      <br />
-      <a href="https://github.com/tigertv">Max Vetrov</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/shlpu">
         <img src="https://avatars2.githubusercontent.com/u/10056444" width="100px;" alt="shlpu"/>
       </a>
@@ -140,6 +133,13 @@
       </a>
       <br />
       <a href="https://github.com/WilliamMajanja">William Majanja</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jestevez">
+        <img src="https://avatars2.githubusercontent.com/u/775669" width="100px;" alt="jestevez"/>
+      </a>
+      <br />
+      <a href="https://github.com/jestevez">Jose Luis Estevez</a>
     </td>
   </tr>
 </table>
