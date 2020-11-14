@@ -11,7 +11,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?xsomoy=ryo-ma&theme=nord" alt="xsomoy" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xsomoy&theme=nord" alt="xsomoy" /></a> </p>
 
 
 
@@ -33,3 +33,4 @@
 <!-- GitHub Stats -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xsomoy&show_icons=true&theme=dark&text_color=ffffff&bg_color=454545&hide_border=true&cache_seconds=180&locale=en" alt="xsomoy"   />
 </p>
+
