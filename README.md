@@ -31,13 +31,10 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xsomoy&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
 <!-- GitHub Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=xsomoy&show_icons=true&locale=en" alt="xsomoy"  />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=xsomoy&show_icons=true&theme=dark&text_color=ffffff&bg_color=454545&hide_border=true&cache_seconds=180&locale=en" alt="xsomoy"   />
 </p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xsomoy&show_icons=true&theme=dark&locale=en&layout=compact" alt="xsomoy" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xsomoy&show_icons=true&theme=dark&text_color=ffffff&locale=en" alt="xsomoy" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xsomoy&show_icons=true&theme=dark&text_color=ffffff&bg_color=757575&hide_border=true&cache_seconds=180&locale=en" alt="xsomoy" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xsomoy&show_icons=true&theme=dark&text_color=ffffff&bg_color=454545&hide_border=true&cache_seconds=180&locale=en" alt="xsomoy" /></p>
