@@ -136,104 +136,104 @@ Java                     2 repos             ██░░░░░░░░░�
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/ankushbanik1">
-        <img src="https://avatars2.githubusercontent.com/u/43584522" width="100px;" alt="ankushbanik1"/>
+      <a href="https://github.com/manjunath5496">
+        <img src="https://avatars2.githubusercontent.com/u/19967403" width="100px;" alt="manjunath5496"/>
       </a>
       <br />
-      <a href="https://github.com/ankushbanik1">Ankush Banik</a>
+      <a href="https://github.com/manjunath5496">Manjunath.R</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ZoeDreams">
-        <img src="https://avatars2.githubusercontent.com/u/14066277" width="100px;" alt="ZoeDreams"/>
+      <a href="https://github.com/sygops">
+        <img src="https://avatars2.githubusercontent.com/u/16489082" width="100px;" alt="sygops"/>
       </a>
       <br />
-      <a href="https://github.com/ZoeDreams">Kara Rawson</a>
+      <a href="https://github.com/sygops">SYGK</a>
     </td>
     <td align="center">
-      <a href="https://github.com/fikritrader">
-        <img src="https://avatars2.githubusercontent.com/u/29796367" width="100px;" alt="fikritrader"/>
+      <a href="https://github.com/JonnyBanana">
+        <img src="https://avatars2.githubusercontent.com/u/25494368" width="100px;" alt="JonnyBanana"/>
       </a>
       <br />
-      <a href="https://github.com/fikritrader">fikritrader</a>
+      <a href="https://github.com/JonnyBanana">Jonny Banana</a>
     </td>
     <td align="center">
-      <a href="https://github.com/iwancilibur">
-        <img src="https://avatars2.githubusercontent.com/u/32497273" width="100px;" alt="iwancilibur"/>
+      <a href="https://github.com/atashfeshan">
+        <img src="https://avatars2.githubusercontent.com/u/42313061" width="100px;" alt="atashfeshan"/>
       </a>
       <br />
-      <a href="https://github.com/iwancilibur">Iwan Cilibur</a>
+      <a href="https://github.com/atashfeshan">Reisi</a>
     </td>
     <td align="center">
-      <a href="https://github.com/sheheryar17">
-        <img src="https://avatars2.githubusercontent.com/u/30393948" width="100px;" alt="sheheryar17"/>
+      <a href="https://github.com/LendisFabri">
+        <img src="https://avatars2.githubusercontent.com/u/16249870" width="100px;" alt="LendisFabri"/>
       </a>
       <br />
-      <a href="https://github.com/sheheryar17">Sheheryar Afzal</a>
+      <a href="https://github.com/LendisFabri">Kuro Neko (黒猫)</a>
     </td>
     <td align="center">
-      <a href="https://github.com/XuanToa">
-        <img src="https://avatars2.githubusercontent.com/u/25999210" width="100px;" alt="XuanToa"/>
+      <a href="https://github.com/ihor">
+        <img src="https://avatars2.githubusercontent.com/u/490943" width="100px;" alt="ihor"/>
       </a>
       <br />
-      <a href="https://github.com/XuanToa">Xuan-Toa Tran</a>
+      <a href="https://github.com/ihor">Ihor Burlachenko</a>
     </td>
     <td align="center">
-      <a href="https://github.com/SourabhSaha71">
-        <img src="https://avatars2.githubusercontent.com/u/56047879" width="100px;" alt="SourabhSaha71"/>
+      <a href="https://github.com/amiryeg">
+        <img src="https://avatars2.githubusercontent.com/u/5389919" width="100px;" alt="amiryeg"/>
       </a>
       <br />
-      <a href="https://github.com/SourabhSaha71">Sourabh Saha</a>
+      <a href="https://github.com/amiryeg">Amir Yeganeh</a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/ARAV0411">
-        <img src="https://avatars2.githubusercontent.com/u/58031492" width="100px;" alt="ARAV0411"/>
+      <a href="https://github.com/shlpu">
+        <img src="https://avatars2.githubusercontent.com/u/10056444" width="100px;" alt="shlpu"/>
       </a>
       <br />
-      <a href="https://github.com/ARAV0411">ARAVINDHAN R</a>
+      <a href="https://github.com/shlpu">shlpu</a>
     </td>
     <td align="center">
-      <a href="https://github.com/abhi36rai">
-        <img src="https://avatars2.githubusercontent.com/u/45686729" width="100px;" alt="abhi36rai"/>
+      <a href="https://github.com/robertolima-dev">
+        <img src="https://avatars2.githubusercontent.com/u/44699957" width="100px;" alt="robertolima-dev"/>
       </a>
       <br />
-      <a href="https://github.com/abhi36rai">abhi36rai</a>
+      <a href="https://github.com/robertolima-dev">Roberto Lima</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Ankit1Verma">
-        <img src="https://avatars2.githubusercontent.com/u/43811154" width="100px;" alt="Ankit1Verma"/>
+      <a href="https://github.com/yaoguangluo">
+        <img src="https://avatars2.githubusercontent.com/u/11319455" width="100px;" alt="yaoguangluo"/>
       </a>
       <br />
-      <a href="https://github.com/Ankit1Verma">ANKIT VERMA</a>
+      <a href="https://github.com/yaoguangluo">Deta Open Source</a>
     </td>
     <td align="center">
-      <a href="https://github.com/mincewords613">
-        <img src="https://avatars2.githubusercontent.com/u/74135899" width="100px;" alt="mincewords613"/>
+      <a href="https://github.com/Bharathkumarraju">
+        <img src="https://avatars2.githubusercontent.com/u/5610588" width="100px;" alt="Bharathkumarraju"/>
       </a>
       <br />
-      <a href="https://github.com/mincewords613">mincewords613</a>
+      <a href="https://github.com/Bharathkumarraju">Bharathkumar</a>
     </td>
     <td align="center">
-      <a href="https://github.com/jaw8d">
-        <img src="https://avatars2.githubusercontent.com/u/64399939" width="100px;" alt="jaw8d"/>
+      <a href="https://github.com/OkelyKodely">
+        <img src="https://avatars2.githubusercontent.com/u/59099" width="100px;" alt="OkelyKodely"/>
       </a>
       <br />
-      <a href="https://github.com/jaw8d">Ashraful Alam Jawad</a>
+      <a href="https://github.com/OkelyKodely">Daniel Dae-Hwan Cho</a>
     </td>
     <td align="center">
-      <a href="https://github.com/bograh">
-        <img src="https://avatars2.githubusercontent.com/u/69661398" width="100px;" alt="bograh"/>
+      <a href="https://github.com/WilliamMajanja">
+        <img src="https://avatars2.githubusercontent.com/u/18480700" width="100px;" alt="WilliamMajanja"/>
       </a>
       <br />
-      <a href="https://github.com/bograh">bograh</a>
+      <a href="https://github.com/WilliamMajanja">William Majanja</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Zeeshan-jamal">
-        <img src="https://avatars2.githubusercontent.com/u/64805436" width="100px;" alt="Zeeshan-jamal"/>
+      <a href="https://github.com/jestevez">
+        <img src="https://avatars2.githubusercontent.com/u/775669" width="100px;" alt="jestevez"/>
       </a>
       <br />
-      <a href="https://github.com/Zeeshan-jamal">Zeeshan Jamal</a>
+      <a href="https://github.com/jestevez">Jose Luis Estevez</a>
     </td>
   </tr>
 </table>
