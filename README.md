@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Somoy a.k.a John Deadman</h1>
 <h3 align="center">A lazy productive coder from earth</h3>
+
 <!-- visitor counter -->
 <table aligh="center">
   <tr>
