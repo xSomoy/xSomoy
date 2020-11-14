@@ -11,7 +11,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xsomoy" alt="xsomoy" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?xsomoy=ryo-ma&theme=nord" alt="xsomoy" /></a> </p>
 
 
 
