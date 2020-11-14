@@ -1,7 +1,7 @@
 ![Banner](https://github.com/kmhmubin/kmhmubin/blob/master/GitHub-Profile-Cover.jpg)
 
 <!-- visitor counter -->
-<table>
+<table aligh="center">
   <tr>
     <td>You are visitor</td>
     <td><img src="https://profile-counter.glitch.me/xsomoy/count.svg" alt="" /></td>
