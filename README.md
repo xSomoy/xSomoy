@@ -5,7 +5,7 @@
 <!-- visitor counter -->
 <table aligh="center">
   <tr>
-    <td>Total Visits Today</td>
+    <td>Total Visits</td>
     <td><img src="https://profile-counter.glitch.me/xsomoy/count.svg" alt="xSomoy" /></td>
   </tr>
 </table>
@@ -89,20 +89,27 @@
       <a href="https://github.com/ihor">Ihor Burlachenko</a>
     </td>
     <td align="center">
+      <a href="https://github.com/xdvrx1">
+        <img src="https://avatars2.githubusercontent.com/u/47092464" width="100px;" alt="xdvrx1"/>
+      </a>
+      <br />
+      <a href="https://github.com/xdvrx1">xdvrx1</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/amiryeg">
         <img src="https://avatars2.githubusercontent.com/u/5389919" width="100px;" alt="amiryeg"/>
       </a>
       <br />
       <a href="https://github.com/amiryeg">Amir Yeganeh</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
-      <a href="https://github.com/tigertv">
-        <img src="https://avatars2.githubusercontent.com/u/34801553" width="100px;" alt="tigertv"/>
+      <a href="https://github.com/josemalcher">
+        <img src="https://avatars2.githubusercontent.com/u/914913" width="100px;" alt="josemalcher"/>
       </a>
       <br />
-      <a href="https://github.com/tigertv">Max Vetrov</a>
+      <a href="https://github.com/josemalcher">José Stélio R. Malcher Junior</a>
     </td>
     <td align="center">
       <a href="https://github.com/shlpu">
@@ -138,13 +145,6 @@
       </a>
       <br />
       <a href="https://github.com/OkelyKodely">Daniel Dae-Hwan Cho</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/WilliamMajanja">
-        <img src="https://avatars2.githubusercontent.com/u/18480700" width="100px;" alt="WilliamMajanja"/>
-      </a>
-      <br />
-      <a href="https://github.com/WilliamMajanja">William Majanja</a>
     </td>
   </tr>
 </table>
