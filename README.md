@@ -42,7 +42,7 @@
 
 ---
 
-### :sparkles: My followers
+### :sparkles: My top followers
 <!--START_SECTION:top-followers-->
 <table>
   <tr>
