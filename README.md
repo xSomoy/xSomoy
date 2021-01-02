@@ -82,18 +82,18 @@
       <a href="https://github.com/LendisFabri">Kuro Neko (黒猫)</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ihor">
-        <img src="https://avatars2.githubusercontent.com/u/490943" width="100px;" alt="ihor"/>
-      </a>
-      <br />
-      <a href="https://github.com/ihor">Ihor Burlachenko</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/xdvrx1">
         <img src="https://avatars2.githubusercontent.com/u/47092464" width="100px;" alt="xdvrx1"/>
       </a>
       <br />
       <a href="https://github.com/xdvrx1">xdvrx1</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ihor">
+        <img src="https://avatars2.githubusercontent.com/u/490943" width="100px;" alt="ihor"/>
+      </a>
+      <br />
+      <a href="https://github.com/ihor">Ihor Burlachenko</a>
     </td>
   </tr>
   <tr>
