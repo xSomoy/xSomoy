@@ -112,6 +112,13 @@
       <a href="https://github.com/josemalcher">José Stélio R. Malcher Junior</a>
     </td>
     <td align="center">
+      <a href="https://github.com/motasimbillah628">
+        <img src="https://avatars2.githubusercontent.com/u/69847499" width="100px;" alt="motasimbillah628"/>
+      </a>
+      <br />
+      <a href="https://github.com/motasimbillah628">motasimbillah628</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/shlpu">
         <img src="https://avatars2.githubusercontent.com/u/10056444" width="100px;" alt="shlpu"/>
       </a>
@@ -138,13 +145,6 @@
       </a>
       <br />
       <a href="https://github.com/Bharathkumarraju">Bharathkumar</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/OkelyKodely">
-        <img src="https://avatars2.githubusercontent.com/u/59099" width="100px;" alt="OkelyKodely"/>
-      </a>
-      <br />
-      <a href="https://github.com/OkelyKodely">Daniel Dae-Hwan Cho</a>
     </td>
   </tr>
 </table>
