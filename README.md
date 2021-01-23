@@ -98,6 +98,13 @@
   </tr>
   <tr>
     <td align="center">
+      <a href="https://github.com/Soldy">
+        <img src="https://avatars2.githubusercontent.com/u/4786022" width="100px;" alt="Soldy"/>
+      </a>
+      <br />
+      <a href="https://github.com/Soldy">Mr L </a>
+    </td>
+    <td align="center">
       <a href="https://github.com/amiryeg">
         <img src="https://avatars2.githubusercontent.com/u/5389919" width="100px;" alt="amiryeg"/>
       </a>
@@ -138,13 +145,6 @@
       </a>
       <br />
       <a href="https://github.com/yaoguangluo">Deta Open Source</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Bharathkumarraju">
-        <img src="https://avatars2.githubusercontent.com/u/5610588" width="100px;" alt="Bharathkumarraju"/>
-      </a>
-      <br />
-      <a href="https://github.com/Bharathkumarraju">Bharathkumar</a>
     </td>
   </tr>
 </table>
