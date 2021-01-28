@@ -89,20 +89,20 @@
       <a href="https://github.com/xdvrx1">xdvrx1</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ihor">
-        <img src="https://avatars2.githubusercontent.com/u/490943" width="100px;" alt="ihor"/>
-      </a>
-      <br />
-      <a href="https://github.com/ihor">Ihor Burlachenko</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/Soldy">
         <img src="https://avatars2.githubusercontent.com/u/4786022" width="100px;" alt="Soldy"/>
       </a>
       <br />
       <a href="https://github.com/Soldy">Mr L </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ihor">
+        <img src="https://avatars2.githubusercontent.com/u/490943" width="100px;" alt="ihor"/>
+      </a>
+      <br />
+      <a href="https://github.com/ihor">Ihor Burlachenko</a>
     </td>
     <td align="center">
       <a href="https://github.com/josemalcher">
