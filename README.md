@@ -68,6 +68,13 @@
       <a href="https://github.com/JonnyBanana">Jonny Banana</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Soldy">
+        <img src="https://avatars2.githubusercontent.com/u/4786022" width="100px;" alt="Soldy"/>
+      </a>
+      <br />
+      <a href="https://github.com/Soldy">Mr L </a>
+    </td>
+    <td align="center">
       <a href="https://github.com/atashfeshan">
         <img src="https://avatars2.githubusercontent.com/u/42313061" width="100px;" alt="atashfeshan"/>
       </a>
@@ -80,13 +87,6 @@
       </a>
       <br />
       <a href="https://github.com/LendisFabri">Kuro Neko (黒猫)</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Soldy">
-        <img src="https://avatars2.githubusercontent.com/u/4786022" width="100px;" alt="Soldy"/>
-      </a>
-      <br />
-      <a href="https://github.com/Soldy">Mr L </a>
     </td>
     <td align="center">
       <a href="https://github.com/xdvrx1">
