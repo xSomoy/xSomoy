@@ -130,7 +130,7 @@
         <img src="https://avatars2.githubusercontent.com/u/10056444" width="100px;" alt="shlpu"/>
       </a>
       <br />
-      <a href="https://github.com/shlpu">shlpu</a>
+      <a href="https://github.com/shlpu">Shengliang Pu</a>
     </td>
     <td align="center">
       <a href="https://github.com/yaoguangluo">
