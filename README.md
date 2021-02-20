@@ -61,18 +61,18 @@
       <a href="https://github.com/sygops">SYGK</a>
     </td>
     <td align="center">
-      <a href="https://github.com/JonnyBanana">
-        <img src="https://avatars2.githubusercontent.com/u/25494368" width="100px;" alt="JonnyBanana"/>
-      </a>
-      <br />
-      <a href="https://github.com/JonnyBanana">Jonny Banana</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Soldy">
         <img src="https://avatars2.githubusercontent.com/u/4786022" width="100px;" alt="Soldy"/>
       </a>
       <br />
       <a href="https://github.com/Soldy">Mr L </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/JonnyBanana">
+        <img src="https://avatars2.githubusercontent.com/u/25494368" width="100px;" alt="JonnyBanana"/>
+      </a>
+      <br />
+      <a href="https://github.com/JonnyBanana">Jonny Banana</a>
     </td>
     <td align="center">
       <a href="https://github.com/atashfeshan">
