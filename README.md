@@ -54,18 +54,18 @@
       <a href="https://github.com/manjunath5496">Manjunath.R</a>
     </td>
     <td align="center">
-      <a href="https://github.com/sygops">
-        <img src="https://avatars2.githubusercontent.com/u/16489082" width="100px;" alt="sygops"/>
-      </a>
-      <br />
-      <a href="https://github.com/sygops">SYGK</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Soldy">
         <img src="https://avatars2.githubusercontent.com/u/4786022" width="100px;" alt="Soldy"/>
       </a>
       <br />
       <a href="https://github.com/Soldy">Mr L </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/sygops">
+        <img src="https://avatars2.githubusercontent.com/u/16489082" width="100px;" alt="sygops"/>
+      </a>
+      <br />
+      <a href="https://github.com/sygops">SYGK</a>
     </td>
     <td align="center">
       <a href="https://github.com/JonnyBanana">
