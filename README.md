@@ -61,18 +61,18 @@
       <a href="https://github.com/Soldy">Mr L </a>
     </td>
     <td align="center">
-      <a href="https://github.com/sygops">
-        <img src="https://avatars2.githubusercontent.com/u/16489082" width="100px;" alt="sygops"/>
-      </a>
-      <br />
-      <a href="https://github.com/sygops">SYGK</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/JonnyBanana">
         <img src="https://avatars2.githubusercontent.com/u/25494368" width="100px;" alt="JonnyBanana"/>
       </a>
       <br />
       <a href="https://github.com/JonnyBanana">Jonny Banana</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/sygops">
+        <img src="https://avatars2.githubusercontent.com/u/16489082" width="100px;" alt="sygops"/>
+      </a>
+      <br />
+      <a href="https://github.com/sygops">SYGK</a>
     </td>
     <td align="center">
       <a href="https://github.com/atashfeshan">
@@ -89,21 +89,14 @@
       <a href="https://github.com/LendisFabri">Kuro Neko (黒猫)</a>
     </td>
     <td align="center">
-      <a href="https://github.com/xdvrx1">
-        <img src="https://avatars2.githubusercontent.com/u/47092464" width="100px;" alt="xdvrx1"/>
-      </a>
-      <br />
-      <a href="https://github.com/xdvrx1">xdvrx1</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/ihor">
         <img src="https://avatars2.githubusercontent.com/u/490943" width="100px;" alt="ihor"/>
       </a>
       <br />
       <a href="https://github.com/ihor">Ihor Burlachenko</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/josemalcher">
         <img src="https://avatars2.githubusercontent.com/u/914913" width="100px;" alt="josemalcher"/>
@@ -145,6 +138,13 @@
       </a>
       <br />
       <a href="https://github.com/Bharathkumarraju">Bharathkumar</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/OkelyKodely">
+        <img src="https://avatars2.githubusercontent.com/u/59099" width="100px;" alt="OkelyKodely"/>
+      </a>
+      <br />
+      <a href="https://github.com/OkelyKodely">Daniel Dae-Hwan Cho</a>
     </td>
   </tr>
 </table>
