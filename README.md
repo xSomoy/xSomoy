@@ -106,6 +106,13 @@
       <a href="https://github.com/josemalcher">José Stélio R. Malcher Junior</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Rebiss">
+        <img src="https://avatars2.githubusercontent.com/u/30255356" width="100px;" alt="Rebiss"/>
+      </a>
+      <br />
+      <a href="https://github.com/Rebiss">Andranik Barseghyan</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/robertolima-dev">
         <img src="https://avatars2.githubusercontent.com/u/44699957" width="100px;" alt="robertolima-dev"/>
       </a>
@@ -132,13 +139,6 @@
       </a>
       <br />
       <a href="https://github.com/Bharathkumarraju">Bharathkumar</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/OkelyKodely">
-        <img src="https://avatars2.githubusercontent.com/u/59099" width="100px;" alt="OkelyKodely"/>
-      </a>
-      <br />
-      <a href="https://github.com/OkelyKodely">Daniel Dae-Hwan Cho</a>
     </td>
   </tr>
 </table>
