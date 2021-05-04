@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Somoy</h1>
 <h3 align="center">A lazy productive coder from earth</h3>
 
+<!-- Markdown -->
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 
 <!-- visitor counter -->
 <table aligh="center">
