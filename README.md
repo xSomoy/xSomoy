@@ -2,9 +2,9 @@
 <h3 align="center">A lazy productive coder from earth</h3>
 
 <!-- Markdown -->
+<h4> A Random Joke To Make You Laugh </h4>
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-<img align="center" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 
 <!-- visitor counter -->
