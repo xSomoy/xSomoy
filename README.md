@@ -33,10 +33,9 @@
 ---
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xsomoy&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark&text_color=ffffff&bg_color=454545&"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xsomoy&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark&text_color=ffffff&bg_color=454545&"/>
 
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=xsomoy&show_icons=true&theme=dark&text_color=ffffff&bg_color=454545&hide_border=true&locale=en" alt="xsomoy"   />
+![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 </p>
 
 ---
