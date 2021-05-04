@@ -32,10 +32,9 @@
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xsomoy&layout=compact)](https://github.com/xsomoy/github-readme-stats)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xsomoy&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark&text_color=ffffff&bg_color=454545&"/>
-
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=xsomoy&theme=blueberry&show_icons=true)
 </p>
 
 ---
