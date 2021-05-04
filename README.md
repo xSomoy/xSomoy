@@ -2,8 +2,8 @@
 <h3 align="center">A lazy productive coder from earth</h3>
 
 <h4> A Random Joke To Make You Laugh </h4>
-<!-- Markdown -->
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 
 
