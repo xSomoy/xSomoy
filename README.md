@@ -37,7 +37,7 @@
 
 ![Somoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=xsomoy&theme=outrun&show_icons=true)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=xsomoy&show_icons=true&theme=highcontrast&text_color=ffffff&bg_color=454545&hide_border=true&cache_seconds=180&locale=en" alt="xsomoy"   />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=xsomoy&show_icons=true&theme=dark&text_color=ffffff&bg_color=454545&hide_border=true&locale=en" alt="xsomoy"   />
 </p>
 
 ---
