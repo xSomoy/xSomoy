@@ -36,7 +36,7 @@
 
 ![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=xsomoy&theme=blueberry&show_icons=true)
 
-[![John's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xsomoy)](https://github.com/anuraghazra/github-readme-stats)
+[![John's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xsomoy)](https://github.com/xsomoy/github-readme-stats)
 </p>
 
 ---
