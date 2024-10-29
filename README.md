@@ -1,5 +1,5 @@
-<h1 align="center">Known as TENET</h1>
-<h3 align="center">A lazy productive coder from earth</h3>
+<h1 align="center">TENET</h1>
+<h3 align="center">Mushphyqur Rahman Tanveer</h3>
 
 
 <!-- visitor counter -->
