@@ -1,4 +1,4 @@
-<h1 align="center">John Deadman</h1>
+<h1 align="center">Known as TENET</h1>
 <h3 align="center">A lazy productive coder from earth</h3>
 
 
