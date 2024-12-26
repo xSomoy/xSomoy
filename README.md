@@ -12,7 +12,7 @@
 
 <!-- Streak -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xSomoy&theme=rose-pine&hide_border=true&fire=DD2727)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xSomoy&theme=neon-palenight&hide_border=true&fire=DD2727)](https://git.io/streak-stats)
 <!-- https://git.io/streak-stats -->
 <!-- https://git.io/streak-stats -->
 <!-- ***[Streak](https://github-readme-streak-stats.herokuapp.com?user=xSomoy&theme=github-dark&hide_border=true&fire=DD2727)*** -->
