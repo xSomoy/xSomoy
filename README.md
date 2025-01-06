@@ -21,8 +21,8 @@
 
 <!-- Stats  -->
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xSomoy&hide_progress=false&layout=compact&langs_count=5&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xSomoy&hide_progress=false&layout=compact&langs_count=5&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+-->
 ![JD's GitHub stats](https://github-readme-stats.vercel.app/api?username=xSomoy&count_private=true&show_icons=true&theme=blue-green)
 
 ---
