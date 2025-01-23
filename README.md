@@ -49,7 +49,7 @@
   <a href="https://x.com/xsomoy" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="somoy@pm.me" target="_blank">
+  <a href="mailto:somoy@pm.me" target="_blank">
     <img src="https://cdn-1.webcatalog.io/catalog/protonmail/protonmail-icon.png" width="52" height="40" alt="Proton Mail"  />
   </a>
 </div>
