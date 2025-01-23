@@ -11,6 +11,7 @@
 </table>
 
 <!-- Streak -->
+[![GitHub Streak](https://github-readme-streak-stats-flax-pi.vercel.app?user=xsomoy&theme=blood-dark&hide_border=true)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=xsomoy&theme=tokyonight)](https://git.io/streak-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xSomoy&theme=tokyonight&hide_border=true&fire=DD2727)](https://git.io/streak-stats)
