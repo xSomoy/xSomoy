@@ -11,7 +11,7 @@
 </table>
 
 <!-- Streak -->
-[![GitHub Streak]([![GitHub Streak](https://github-readme-streak-stats-flax-pi.vercel.app?user=xsomoy&theme=github-dark)](https://github-readme-streak-stats-flax-pi.vercel.app/demo/)
+[![GitHub Streak](https://github-readme-streak-stats-flax-pi.vercel.app?user=xsomoy&theme=github-dark)](https://git.io/streak-stats)
 
 ---
 
