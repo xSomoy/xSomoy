@@ -16,6 +16,7 @@
 
 <!-- Streak -->
 [![GitHub Streak](https://github-readme-streak-stats-flax-pi.vercel.app?user=xsomoy&theme=github-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-flax-pi.vercel.app?user=xsomoy&theme=github-dark)](https://git.io/streak-stats)
 
 
 <div align="left">
