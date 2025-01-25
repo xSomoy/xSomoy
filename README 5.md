@@ -35,3 +35,23 @@
 
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xsomoy&radius=16&theme=gotham&area=true&order=5&custom_title=Activity" height="300" alt="activity-graph graph" />
 
+</div>
+
+<!-- Snake  -->
+<!-- 
+<img src="https://raw.githubusercontent.com/xsomoy/xsomoy/output/snake.svg" alt="Snake animation" /> -->
+
+<!-- Contacts  -->
+<div align="left">
+  <a href="https://www.linkedin.com/in/xsomoy/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/xsomoy" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="mailto:somoy@pm.me" target="_blank">
+    <img src="https://cdn-1.webcatalog.io/catalog/protonmail/protonmail-icon.png" width="52" height="40" alt="Proton Mail"  />
+  </a>
+</div>
+
+--- 
