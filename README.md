@@ -17,7 +17,7 @@
 </div>
 <!-- Streak -->
 <!-- [![GitHub Streak](https://github-readme-streak-stats-flax-pi.vercel.app?user=xsomoy&theme=github-dark)](https://github-readme-streak-stats-flax-pi.vercel.app/demo/) -->
-[![GitHub Streak](https://tenets-github-readme-streak-stats.vercel.app?user=xsomoy&theme=neon)](https://git.io/streak-stats)
+[![GitHub Streak](https://tenets-github-readme-streak-stats.vercel.app?user=xsomoy&theme=neon)](https://git.io/streak-stats)]
 
 <div align="left">
 <!-- Status -->
