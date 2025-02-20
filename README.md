@@ -7,13 +7,14 @@
 
 
 <!-- visitor counter -->
+<div alighn="center">
 <table aligh="center">
   <tr>
     <td>Profile Visits</td>
     <td alight="center" ><img src="https://profile-counter.glitch.me/xsomoy/count.svg" alt="xSomoy" /></td>
   </tr>
 </table>
-
+</div>div>
 <!-- Streak -->
 <!-- [![GitHub Streak](https://github-readme-streak-stats-flax-pi.vercel.app?user=xsomoy&theme=github-dark)](https://github-readme-streak-stats-flax-pi.vercel.app/demo/) -->
 [![GitHub Streak](https://tenets-github-readme-streak-stats.vercel.app?user=xsomoy&theme=neon)](https://git.io/streak-stats)
