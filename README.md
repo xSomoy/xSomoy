@@ -3,6 +3,8 @@
 
 
 <!-- <h3 align="center">Mushphyqur Rahman Tanveer</h3> -->
+<!-- Buy Me a Coffee -->
+<a href="https://www.buymeacoffee.com/xSomoy"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=xSomoy&button_colour=a1602b&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
 
  <!-- GitQuist -->
  
