@@ -2,7 +2,7 @@
 <h1 align="center">TENET</h1>
 
 
-<h3 align="center">Mushphyqur Rahman Tanveer</h3>
+<!-- <h3 align="center">Mushphyqur Rahman Tanveer</h3> -->
 
  <!-- GitQuist -->
  
