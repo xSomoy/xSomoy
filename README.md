@@ -3,8 +3,15 @@
 
 
 <h3 align="center">Mushphyqur Rahman Tanveer</h3>
-<hr/>
 
+ <!-- GitQuist -->
+ 
+<a href="https://gitquest.dev/player/xSomoy" target="_blank">
+<img src="https://img.shields.io/badge/GitQuest%20Winner-1st Place-ffd700" alt="GitQuest Winner">
+</a>
+
+
+<hr/>
 
 <!-- visitor counter -->
 
@@ -38,4 +45,5 @@
   <!-- Activity Graph  -->
 
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xsomoy&radius=16&theme=gotham&area=true&order=5&custom_title=Activity" height="300" alt="activity-graph graph" />
+
 
