@@ -1,5 +1,5 @@
 <!-- Title  -->
-<h1 align="center">TENET</h1>
+<h1 align="center">SOMOY</h1>
 
 
 <h3 align="center">Mushphyqur Rahman Tanveer</h3>
