@@ -26,7 +26,7 @@
 
 <!-- Streak -->
 <!-- [![GitHub Streak](https://github-readme-streak-stats-flax-pi.vercel.app?user=xsomoy&theme=github-dark)](https://github-readme-streak-stats-flax-pi.vercel.app/demo/) -->
-[![GitHub Streak](https://tenets-github-readme-streak-stats.vercel.app?user=xsomoy&theme=github-dark)](https://tenets-github-readme-streak-stats.vercel.app/demo/))
+[![GitHub Streak](https://tenets-github-readme-streak-stats.vercel.app?user=xsomoy&theme=github-dark)](https://tenets-github-readme-streak-stats.vercel.app/demo/)
 
 <!-- [![GitHub Streak](https://tenets-github-readme-streak-stats.vercel.app?user=xsomoy&theme=tokyonight)](https://tenets-github-readme-streak-stats.vercel.app/demo/) -->
 <!--[![GitHub Streak](https://tenets-github-readme-streak-stats.vercel.app?user=xsomoy&theme=neon)](https://tenets-github-readme-streak-stats.vercel.app/demo/)]
